@@ -1,0 +1,6 @@
+Information About how to run project
+
+Download zip file
+extract it
+open in any code editer
+run the proect by cammand -  python manage.py runserver.
